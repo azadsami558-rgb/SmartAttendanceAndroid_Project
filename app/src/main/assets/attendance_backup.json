@@ -1,0 +1,846 @@
+{
+  "students": [
+    {
+      "id": "std-101",
+      "studentNumber": "2026-101",
+      "name": "أحمد بن عبد الله المطيري",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "عبد الله بن أحمد المطيري",
+      "guardianPhone": "+966501234567",
+      "guardianRelation": "أب",
+      "nationalId": "1098765431",
+      "enrollmentDate": "2025-09-01",
+      "notes": "طالب متميز في الرياضيات وعضو الإذاعة المدرسية"
+    },
+    {
+      "id": "std-102",
+      "studentNumber": "2026-102",
+      "name": "سعود بن ماجد الدوسري",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "ماجد بن سعود الدوسري",
+      "guardianPhone": "+966551234568",
+      "guardianRelation": "أب",
+      "nationalId": "1098765432",
+      "enrollmentDate": "2025-09-01",
+      "notes": "يعاني من حساسية موسمية في بعض الفصول"
+    },
+    {
+      "id": "std-103",
+      "studentNumber": "2026-103",
+      "name": "عمر بن طلال الشهراني",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "طلال بن عمر الشهراني",
+      "guardianPhone": "+966541234569",
+      "guardianRelation": "أب",
+      "nationalId": "1098765433",
+      "enrollmentDate": "2025-09-01",
+      "notes": "تكرر تأخره الصباحي بسبب المواصلات"
+    },
+    {
+      "id": "std-104",
+      "studentNumber": "2026-104",
+      "name": "ياسر بن فهد العنزي",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "فهد بن ياسر العنزي",
+      "guardianPhone": "+966531234570",
+      "guardianRelation": "أب",
+      "nationalId": "1098765434",
+      "enrollmentDate": "2025-09-01",
+      "notes": "نسبة غياب مرتفعة - تم إرسال إشعار أول"
+    },
+    {
+      "id": "std-105",
+      "studentNumber": "2026-105",
+      "name": "حمزة بن إبراهيم السبيعي",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "إبراهيم السبيعي",
+      "guardianPhone": "+966561234571",
+      "guardianRelation": "أب",
+      "nationalId": "1098765435",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-106",
+      "studentNumber": "2026-106",
+      "name": "عبد العزيز بن ناصر الزهراني",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "ناصر بن عبد العزيز الزهراني",
+      "guardianPhone": "+966571234572",
+      "guardianRelation": "أب",
+      "nationalId": "1098765436",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-107",
+      "studentNumber": "2026-107",
+      "name": "خالد بن وليد القرني",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "وليد بن خالد القرني",
+      "guardianPhone": "+966581234573",
+      "guardianRelation": "أب",
+      "nationalId": "1098765437",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-108",
+      "studentNumber": "2026-108",
+      "name": "ريان بن بدر المالكي",
+      "classId": "class-10-a",
+      "className": "الصف العاشر (أ)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "بدر بن ريان المالكي",
+      "guardianPhone": "+966591234574",
+      "guardianRelation": "أب",
+      "nationalId": "1098765438",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-109",
+      "studentNumber": "2026-109",
+      "name": "بندر بن سامي الرشيدي",
+      "classId": "class-10-b",
+      "className": "الصف العاشر (ب)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "سامي بن بندر الرشيدي",
+      "guardianPhone": "+966502234575",
+      "guardianRelation": "أب",
+      "nationalId": "1098765439",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-110",
+      "studentNumber": "2026-110",
+      "name": "فيصل بن منصور الحازمي",
+      "classId": "class-10-b",
+      "className": "الصف العاشر (ب)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "منصور بن فيصل الحازمي",
+      "guardianPhone": "+966552234576",
+      "guardianRelation": "أب",
+      "nationalId": "1098765440",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-111",
+      "studentNumber": "2026-111",
+      "name": "تركي بن عثمان الغامدي",
+      "classId": "class-10-b",
+      "className": "الصف العاشر (ب)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "عثمان بن تركي الغامدي",
+      "guardianPhone": "+966542234577",
+      "guardianRelation": "أب",
+      "nationalId": "1098765441",
+      "enrollmentDate": "2025-09-01",
+      "notes": "طالب في فريق كرة القدم المدرسي"
+    },
+    {
+      "id": "std-112",
+      "studentNumber": "2026-112",
+      "name": "سليمان بن حامد البقمي",
+      "classId": "class-10-b",
+      "className": "الصف العاشر (ب)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "حامد بن سليمان البقمي",
+      "guardianPhone": "+966532234578",
+      "guardianRelation": "أب",
+      "nationalId": "1098765442",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-113",
+      "studentNumber": "2026-113",
+      "name": "حسام بن عصام الصالح",
+      "classId": "class-10-b",
+      "className": "الصف العاشر (ب)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "عصام بن حسام الصالح",
+      "guardianPhone": "+966562234579",
+      "guardianRelation": "أب",
+      "nationalId": "1098765443",
+      "enrollmentDate": "2025-09-01",
+      "notes": "حالة غياب حادة - يحتاج استدعاء ولي أمر"
+    },
+    {
+      "id": "std-114",
+      "studentNumber": "2026-114",
+      "name": "ماجد بن راشد النعيمي",
+      "classId": "class-10-b",
+      "className": "الصف العاشر (ب)",
+      "grade": "الصف العاشر",
+      "gender": "male",
+      "guardianName": "راشد بن ماجد النعيمي",
+      "guardianPhone": "+966572234580",
+      "guardianRelation": "أب",
+      "nationalId": "1098765444",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-201",
+      "studentNumber": "2026-201",
+      "name": "محمد بن يوسف الخالدي",
+      "classId": "class-11-sci",
+      "className": "الصف الحادي عشر (علمي)",
+      "grade": "الصف الحادي عشر",
+      "gender": "male",
+      "guardianName": "يوسف بن محمد الخالدي",
+      "guardianPhone": "+966582234581",
+      "guardianRelation": "أب",
+      "nationalId": "1098765445",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-202",
+      "studentNumber": "2026-202",
+      "name": "عبد الرحمن بن سعد العجمي",
+      "classId": "class-11-sci",
+      "className": "الصف الحادي عشر (علمي)",
+      "grade": "الصف الحادي عشر",
+      "gender": "male",
+      "guardianName": "سعد بن عبد الرحمن العجمي",
+      "guardianPhone": "+966592234582",
+      "guardianRelation": "أب",
+      "nationalId": "1098765446",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-203",
+      "studentNumber": "2026-203",
+      "name": "نواف بن مسفر الهاجري",
+      "classId": "class-11-sci",
+      "className": "الصف الحادي عشر (علمي)",
+      "grade": "الصف الحادي عشر",
+      "gender": "male",
+      "guardianName": "مسفر بن نواف الهاجري",
+      "guardianPhone": "+966503234583",
+      "guardianRelation": "أب",
+      "nationalId": "1098765447",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-204",
+      "studentNumber": "2026-204",
+      "name": "طارق بن صالح الشهري",
+      "classId": "class-11-sci",
+      "className": "الصف الحادي عشر (علمي)",
+      "grade": "الصف الحادي عشر",
+      "gender": "male",
+      "guardianName": "صالح بن طارق الشهري",
+      "guardianPhone": "+966553234584",
+      "guardianRelation": "أب",
+      "nationalId": "1098765448",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-205",
+      "studentNumber": "2026-205",
+      "name": "زياد بن معاذ الفيفي",
+      "classId": "class-11-sci",
+      "className": "الصف الحادي عشر (علمي)",
+      "grade": "الصف الحادي عشر",
+      "gender": "male",
+      "guardianName": "معاذ بن زياد الفيفي",
+      "guardianPhone": "+966543234585",
+      "guardianRelation": "أب",
+      "nationalId": "1098765449",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-206",
+      "studentNumber": "2026-206",
+      "name": "إياد بن كمال السالم",
+      "classId": "class-11-sci",
+      "className": "الصف الحادي عشر (علمي)",
+      "grade": "الصف الحادي عشر",
+      "gender": "male",
+      "guardianName": "كمال بن إياد السالم",
+      "guardianPhone": "+966533234586",
+      "guardianRelation": "أب",
+      "nationalId": "1098765450",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-301",
+      "studentNumber": "2026-301",
+      "name": "سالم بن ممدوح التميمي",
+      "classId": "class-12-lit",
+      "className": "الصف الثاني عشر (عام / أدبي)",
+      "grade": "الصف الثاني عشر",
+      "gender": "male",
+      "guardianName": "ممدوح بن سالم التميمي",
+      "guardianPhone": "+966563234587",
+      "guardianRelation": "أب",
+      "nationalId": "1098765451",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-302",
+      "studentNumber": "2026-302",
+      "name": "فراس بن قاسم الجهني",
+      "classId": "class-12-lit",
+      "className": "الصف الثاني عشر (عام / أدبي)",
+      "grade": "الصف الثاني عشر",
+      "gender": "male",
+      "guardianName": "قاسم بن فراس الجهني",
+      "guardianPhone": "+966573234588",
+      "guardianRelation": "أب",
+      "nationalId": "1098765452",
+      "enrollmentDate": "2025-09-01",
+      "notes": "طالب متفوق - نسبة حضور 100%"
+    },
+    {
+      "id": "std-303",
+      "studentNumber": "2026-303",
+      "name": "عبد الله بن هيثم العوفي",
+      "classId": "class-12-lit",
+      "className": "الصف الثاني عشر (عام / أدبي)",
+      "grade": "الصف الثاني عشر",
+      "gender": "male",
+      "guardianName": "هيثم بن عبد الله العوفي",
+      "guardianPhone": "+966583234589",
+      "guardianRelation": "أب",
+      "nationalId": "1098765453",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-304",
+      "studentNumber": "2026-304",
+      "name": "معتز بن يحيى الغامدي",
+      "classId": "class-12-lit",
+      "className": "الصف الثاني عشر (عام / أدبي)",
+      "grade": "الصف الثاني عشر",
+      "gender": "male",
+      "guardianName": "يحيى بن معتز الغامدي",
+      "guardianPhone": "+966593234590",
+      "guardianRelation": "أب",
+      "nationalId": "1098765454",
+      "enrollmentDate": "2025-09-01"
+    },
+    {
+      "id": "std-305",
+      "studentNumber": "2026-305",
+      "name": "مشاري بن فايز الشريف",
+      "classId": "class-12-lit",
+      "className": "الصف الثاني عشر (عام / أدبي)",
+      "grade": "الصف الثاني عشر",
+      "gender": "male",
+      "guardianName": "فايز بن مشاري الشريف",
+      "guardianPhone": "+966504234591",
+      "guardianRelation": "أب",
+      "nationalId": "1098765455",
+      "enrollmentDate": "2025-09-01"
+    }
+  ],
+  "classes": [
+    {
+      "id": "class-10-a",
+      "name": "الصف العاشر (أ)",
+      "grade": "المرحلة الثانوية - الصف الأول",
+      "section": "أ",
+      "teacherName": "أ. محمد سعيد الغامدي",
+      "roomNumber": "101",
+      "academicYear": "2026",
+      "capacity": 30
+    },
+    {
+      "id": "class-10-b",
+      "name": "الصف العاشر (ب)",
+      "grade": "المرحلة الثانوية - الصف الأول",
+      "section": "ب",
+      "teacherName": "أ. خالد فيصل العتيبي",
+      "roomNumber": "102",
+      "academicYear": "2026",
+      "capacity": 30
+    },
+    {
+      "id": "class-11-sci",
+      "name": "الصف الحادي عشر (علمي)",
+      "grade": "المرحلة الثانوية - الصف الثاني",
+      "section": "علمي 1",
+      "teacherName": "أ. زياد محمود الشمري",
+      "roomNumber": "204",
+      "academicYear": "2026",
+      "capacity": 28
+    },
+    {
+      "id": "class-12-lit",
+      "name": "الصف الثاني عشر (عام / أدبي)",
+      "grade": "المرحلة الثانوية - الصف الثالث",
+      "section": "عام 1",
+      "teacherName": "أ. سلطان عادل الحربي",
+      "roomNumber": "301",
+      "academicYear": "2026",
+      "capacity": 25
+    }
+  ],
+  "records": [
+    {
+      "id": "att-101-today",
+      "studentId": "std-101",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.283Z"
+    },
+    {
+      "id": "att-102-today",
+      "studentId": "std-102",
+      "date": "2026-10-14",
+      "status": "absent_excused",
+      "excuseReason": "مراجعة عيادة طب الأسنان (مرفق إشعار مراجعة)",
+      "excuseCategory": "medical",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-103-today",
+      "studentId": "std-103",
+      "date": "2026-10-14",
+      "status": "late",
+      "lateMinutes": 25,
+      "notes": "عطل في حافلة النقل المدرسي",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-104-today",
+      "studentId": "std-104",
+      "date": "2026-10-14",
+      "status": "absent_unexcused",
+      "notes": "لم يقدم أي عذر مسبق",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-105-today",
+      "studentId": "std-105",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-106-today",
+      "studentId": "std-106",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-107-today",
+      "studentId": "std-107",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-108-today",
+      "studentId": "std-108",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-109-today",
+      "studentId": "std-109",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-110-today",
+      "studentId": "std-110",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-111-today",
+      "studentId": "std-111",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-112-today",
+      "studentId": "std-112",
+      "date": "2026-10-14",
+      "status": "late",
+      "lateMinutes": 15,
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-113-today",
+      "studentId": "std-113",
+      "date": "2026-10-14",
+      "status": "absent_unexcused",
+      "notes": "غياب متكرر - الإنذار الثاني مستحق",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-114-today",
+      "studentId": "std-114",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-201-today",
+      "studentId": "std-201",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-202-today",
+      "studentId": "std-202",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-203-today",
+      "studentId": "std-203",
+      "date": "2026-10-14",
+      "status": "absent_excused",
+      "excuseReason": "سفر عائلي طارئ معتمد من الإدارة",
+      "excuseCategory": "family",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-204-today",
+      "studentId": "std-204",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-205-today",
+      "studentId": "std-205",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-206-today",
+      "studentId": "std-206",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-301-today",
+      "studentId": "std-301",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-302-today",
+      "studentId": "std-302",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-303-today",
+      "studentId": "std-303",
+      "date": "2026-10-14",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-304-today",
+      "studentId": "std-304",
+      "date": "2026-10-14",
+      "status": "late",
+      "lateMinutes": 10,
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "att-305-today",
+      "studentId": "std-305",
+      "date": "2026-10-14",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-104",
+      "studentId": "std-104",
+      "date": "2026-10-13",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-113",
+      "studentId": "std-113",
+      "date": "2026-10-13",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-103",
+      "studentId": "std-103",
+      "date": "2026-10-13",
+      "status": "late",
+      "lateMinutes": 20,
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-101",
+      "studentId": "std-101",
+      "date": "2026-10-13",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-102",
+      "studentId": "std-102",
+      "date": "2026-10-13",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-105",
+      "studentId": "std-105",
+      "date": "2026-10-13",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.284Z"
+    },
+    {
+      "id": "h-1-106",
+      "studentId": "std-106",
+      "date": "2026-10-13",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-1-201",
+      "studentId": "std-201",
+      "date": "2026-10-13",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-1-301",
+      "studentId": "std-301",
+      "date": "2026-10-13",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-2-104",
+      "studentId": "std-104",
+      "date": "2026-10-12",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-2-113",
+      "studentId": "std-113",
+      "date": "2026-10-12",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-2-102",
+      "studentId": "std-102",
+      "date": "2026-10-12",
+      "status": "absent_excused",
+      "excuseReason": "حمى ووعكة صحية",
+      "excuseCategory": "medical",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-2-101",
+      "studentId": "std-101",
+      "date": "2026-10-12",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-2-103",
+      "studentId": "std-103",
+      "date": "2026-10-12",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-2-105",
+      "studentId": "std-105",
+      "date": "2026-10-12",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-3-113",
+      "studentId": "std-113",
+      "date": "2026-10-11",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-3-104",
+      "studentId": "std-104",
+      "date": "2026-10-11",
+      "status": "late",
+      "lateMinutes": 30,
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-3-101",
+      "studentId": "std-101",
+      "date": "2026-10-11",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-3-102",
+      "studentId": "std-102",
+      "date": "2026-10-11",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-3-103",
+      "studentId": "std-103",
+      "date": "2026-10-11",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-4-113",
+      "studentId": "std-113",
+      "date": "2026-10-10",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-4-104",
+      "studentId": "std-104",
+      "date": "2026-10-10",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-4-101",
+      "studentId": "std-101",
+      "date": "2026-10-10",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-4-103",
+      "studentId": "std-103",
+      "date": "2026-10-10",
+      "status": "late",
+      "lateMinutes": 15,
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-5-113",
+      "studentId": "std-113",
+      "date": "2026-10-09",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-5-104",
+      "studentId": "std-104",
+      "date": "2026-10-09",
+      "status": "absent_excused",
+      "excuseReason": "وفاة قريب من الدرجة الأولى",
+      "excuseCategory": "family",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-5-101",
+      "studentId": "std-101",
+      "date": "2026-10-09",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-5-102",
+      "studentId": "std-102",
+      "date": "2026-10-09",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-6-113",
+      "studentId": "std-113",
+      "date": "2026-10-08",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-6-101",
+      "studentId": "std-101",
+      "date": "2026-10-08",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-6-102",
+      "studentId": "std-102",
+      "date": "2026-10-08",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-7-113",
+      "studentId": "std-113",
+      "date": "2026-10-07",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-7-104",
+      "studentId": "std-104",
+      "date": "2026-10-07",
+      "status": "absent_unexcused",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    },
+    {
+      "id": "h-7-101",
+      "studentId": "std-101",
+      "date": "2026-10-07",
+      "status": "present",
+      "timestamp": "2026-10-14T20:37:53.285Z"
+    }
+  ],
+  "settings": {
+    "schoolName": "ثانوية الفرسان النموذجية للبنين والبنات",
+    "academicYear": "1447 - 1448 هـ / 2026 م",
+    "termName": "الفصل الدراسي الأول",
+    "principalName": "د. عبد الرحمن بن صالح القحطاني",
+    "attendanceOfficerName": "أ. طارق إبراهيم المنصور",
+    "warning1Threshold": 3,
+    "warning2Threshold": 5,
+    "deprivationThreshold": 7
+  },
+  "exportDate": "2026-10-14T20:40:33.376Z"
+}
